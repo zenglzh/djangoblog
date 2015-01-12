@@ -1,0 +1,12 @@
+certifi==14.5.14
+cx-Freeze==4.3.3
+dj-database-url==0.3.0
+Django==1.7.2
+gunicorn==19.1.1
+pathspec==0.2.2
+pycrypto==2.6.1
+requests==2.5.1
+termcolor==1.1.0
+tornado==4.0.2
+virtualenv==12.0.5
+whitenoise==1.0.6
